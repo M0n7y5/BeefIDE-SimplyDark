@@ -1,4 +1,4 @@
-x# Simply Dark
+# Simply Dark
 Custom Beef IDE theme
 ![](img/screen.png)
 
