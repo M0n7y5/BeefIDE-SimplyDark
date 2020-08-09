@@ -1,0 +1,22 @@
+[Colors]
+Text = 0xFFFFFFFF
+Window = 0xFF343434
+Background = 0xFF343434
+SelectedOutline = 0xFF00FF00
+MenuFocused = 0xFFFFA000
+MenuSelected = 0xFFFF0000
+Code = 0xFFB98AFF
+Keyword = 0xFF569cd6
+Literal = 0xFFd69D85
+Identifier = 0xFFdcdcdc
+Type = 0xFF66D9EF
+Comment = 0xFF80966C
+Method = 0xFFDBDB95
+TypeRef = 0xFF4ec9b0
+Namespace = 0xFFAAAAAA
+DisassemblyText = 0xFFB0B0B0
+DisassemblyFileName = 0XFFFF0000
+Error = 0xFFFF0000
+BuildError = 0xFFFF8080
+BuildWarning = 0xFFFFFF80
+VisibleWhiteSpace = 0xFF9090C0
