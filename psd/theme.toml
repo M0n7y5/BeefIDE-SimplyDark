@@ -20,7 +20,7 @@ Comment = 0xFF80966C
 Method = 0xFFDBDB95
 Namespace = 0xFFAAAAAA
 DisassemblyText = 0xFFB0B0B0
-DisassemblyFileName = 0XFFFF0000
+DisassemblyFileName = 0xFFFF0000
 
 Error = 0xFFFF0000
 BuildError = 0xFFFF8080
