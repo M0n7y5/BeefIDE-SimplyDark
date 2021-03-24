@@ -7,10 +7,13 @@ MenuFocused = 0xFFFFA000
 MenuSelected = 0xFFFF0000
 AutoCompleteSubText  = 0xB0B0B0
 AutoCompleteDocText = 0xC0C0C0
-AutoCompleteActiveText = 0xFF0000
+AutoCompleteActiveText = 0xFFF8A9
 
 Code = 0xFFB98AFF
-Keyword = 0xFF569cd6
+Keyword = 0x569cd6
+PrimitiveType = 0x569cd6
+Struct = 0x86c691
+GenericParam = 0xC6E8B0
 Literal = 0xFFd69D85
 Identifier = 0xFFdcdcdc
 Type = 0x4ec9b0
