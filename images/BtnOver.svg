@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 80 80"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="BtnOver.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.8581514"
+     inkscape:cx="49.116787"
+     inkscape:cy="48.987191"
+     inkscape:window-width="1278"
+     inkscape:window-height="1360"
+     inkscape:window-x="1266"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg23" />
+  <defs
+     id="defs14">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #1e2228;
+        stroke: #282828;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+        filter: url(#filter);
+      }
+    </style>
+    <clipPath
+       id="clip-path">
+      <rect
+         x="-640"
+         y="-1"
+         width="1600"
+         height="640"
+         id="rect4" />
+    </clipPath>
+    <filter
+       id="filter"
+       x="0"
+       y="-1"
+       width="80"
+       height="80"
+       filterUnits="userSpaceOnUse">
+      <feImage
+         preserveAspectRatio="none"
+         x="0"
+         y="-1"
+         width="80"
+         height="80"
+         result="image"
+         xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9IjAgMCA4MCA4MCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI0MCIgeTE9IjgwIiB4Mj0iNDAiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMmIyYjJiIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzY2NiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iODAiIGhlaWdodD0iODAiLz4KPC9zdmc+Cg=="
+         id="feImage7" />
+      <feComposite
+         result="composite"
+         operator="in"
+         in2="SourceGraphic"
+         id="feComposite9" />
+      <feBlend
+         result="blend"
+         in2="SourceGraphic"
+         id="feBlend11" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2373"
+       id="linearGradient3849"
+       gradientUnits="userSpaceOnUse"
+       x1="40.952255"
+       y1="80.349358"
+       x2="40.952255"
+       y2="0.51838279"
+       gradientTransform="matrix(0.91734737,0,0,0.92356409,2.4999998,2.4999994)" />
+    <linearGradient
+       id="linearGradient2373"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#282828;stop-opacity:1"
+         offset="0"
+         id="stop2369" />
+      <stop
+         style="stop-color:#636363;stop-opacity:1"
+         offset="1"
+         id="stop2371" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:url(#linearGradient3849);fill-opacity:1;fill-rule:nonzero;stroke:#282828;stroke-width:5;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+     id="rect131"
+     width="75"
+     height="75"
+     x="2.5"
+     y="2.5"
+     rx="18.346949"
+     ry="18.471281" />
+</svg>

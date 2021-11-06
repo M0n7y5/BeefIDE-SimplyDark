@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 80 80"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="AsmArrow.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="7.7163028"
+     inkscape:cx="31.232574"
+     inkscape:cy="44.775329"
+     inkscape:window-width="1675"
+     inkscape:window-height="1081"
+     inkscape:window-x="750"
+     inkscape:window-y="272"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     d="M 16.666821,12.4693 H 62.129775 V 7.0809685 H 11.548048 V 60.795287 h 39.4996 V 72.919032 L 68.451952,58.101123 51.047648,43.283214 V 55.406956 H 16.666821 Z"
+     id="path2590"
+     style="fill:#00a2ff;fill-opacity:1;stroke-width:2.9183"
+     sodipodi:nodetypes="cccccccccccc" />
+</svg>

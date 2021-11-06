@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #242424;
+      }
+    </style>
+  </defs>
+  <rect id="VertScrollbar" class="cls-1" x="7" y="8" width="66" height="64" rx="20" ry="20"/>
+</svg>

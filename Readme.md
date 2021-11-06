@@ -9,7 +9,7 @@ Custom Beef IDE theme
 2. Unzip it and copy it to `C:\Program Files\BeefLang\bin\themes` (create folder `themes` if its needed)
 3. Write theme name in theme settings
     
-![](img/settings.png)
+![](screens/settings.png)
 
 4. Hit Apply button
 5. Profit

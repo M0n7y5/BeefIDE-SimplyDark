@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8fcf5c;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="ReturnPointer" class="cls-1" d="M627.011,361.223l-22.568,18.764-0.386-9.048c-11.742,1.942-33.168.726-25.392-36.954,0,0,5.032,26.257,24.573,17.805L602.7,339.2Z" transform="translate(-562 -317)"/>
+</svg>

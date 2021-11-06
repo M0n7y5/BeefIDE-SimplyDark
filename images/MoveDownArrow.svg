@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b6d170;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="MoveDownArrow" class="cls-1" d="M783,356.325L760,383l-23-26.674h12.288V337h21.423v19.326H783Z" transform="translate(-720 -320)"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff2828;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="CloseOver" class="cls-1" d="M122.407,120l9.577,9.577-2.415,2.414-9.576-9.577-9.577,9.577L108,129.576,117.578,120,108,110.422l2.414-2.414,9.577,9.577,9.576-9.577,2.415,2.414Z" transform="translate(-79.984 -80)"/>
+</svg>

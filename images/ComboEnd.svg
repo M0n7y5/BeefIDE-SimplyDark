@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="-14 -21 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #747373;
+      }
+
+      .cls-2 {
+        fill: #8a8a8a;
+        fill-rule: evenodd;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect width="52" height="38"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-path)">
+    <rect id="Separator" class="cls-1" width="3" height="38"/>
+    <path id="TreeArrow" class="cls-2" d="M51.99,14.01H18L35,33.991Z"/>
+  </g>
+</svg>

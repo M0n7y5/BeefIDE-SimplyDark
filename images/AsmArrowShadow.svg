@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 80 80"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="AsmArrowShadow.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="7.7163028"
+     inkscape:cx="-13.477957"
+     inkscape:cy="44.775329"
+     inkscape:window-width="1675"
+     inkscape:window-height="1081"
+     inkscape:window-x="407"
+     inkscape:window-y="272"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g2926" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g
+     id="g2926"
+     transform="translate(6.1233273,25.182091)"
+     style="fill:#1e1e1e;fill-opacity:1">
+    <rect
+       style="opacity:1;fill:#1e1e1e;fill-opacity:1;stroke:none;stroke-width:1.58144;stroke-linecap:square"
+       id="rect1191-6"
+       width="27.084637"
+       height="9.2768774"
+       x="6.705698"
+       y="-1.4666795" />
+    <rect
+       style="fill:#1e1e1e;fill-opacity:1;stroke:none;stroke-width:1.58144;stroke-linecap:square"
+       id="rect1191-6-2"
+       width="27.084637"
+       height="9.2768774"
+       x="6.5126948"
+       y="11.261329" />
+  </g>
+</svg>

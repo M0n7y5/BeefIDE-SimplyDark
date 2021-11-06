@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 80 80"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="ResizeGrabber.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="10.9125"
+     inkscape:cx="36.609393"
+     inkscape:cy="40"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     d="M 80,80 H 67.73654 V 67.73654 H 80 V 80 M 80,55.473081 H 67.73654 V 43.209621 H 80 v 12.26346 M 55.473081,80 H 43.209623 V 67.73654 H 55.473081 V 80 m 0,-24.526919 H 43.209623 v -12.26346 h 12.263458 v 12.26346 M 30.946163,80 H 18.682703 V 67.73654 h 12.26346 V 80 M 80,30.946163 H 67.73654 V 18.682703 H 80 Z"
+     id="path902"
+     style="stroke-width:6.13172;fill:#aaaaaa;fill-opacity:1" />
+</svg>

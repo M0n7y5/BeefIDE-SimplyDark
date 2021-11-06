@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8a8a8a;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="VertScrollbarArrow" class="cls-1" d="M1579.01,110.013H1541l19.01,25.975Z" transform="translate(-1520 -83)"/>
+</svg>

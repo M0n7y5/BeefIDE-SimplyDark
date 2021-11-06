@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 80 80"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="Document.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="10.9125"
+     inkscape:cx="36.609393"
+     inkscape:cy="40"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     d="m 22.728523,11.214204 a 5.7571594,5.7571594 0 0 0 -5.75716,5.75716 v 46.057275 a 5.7571594,5.7571594 0 0 0 5.75716,5.757156 h 34.542956 a 5.7571594,5.7571594 0 0 0 5.757158,-5.757156 V 28.485682 L 45.75716,11.214204 H 22.728523 m 0,5.75716 H 42.87858 V 31.364262 H 57.271479 V 63.028639 H 22.728523 V 16.971364 m 5.757158,23.028637 V 45.75716 H 51.514318 V 40.000001 H 28.48568 m 0,11.514319 v 5.757159 h 14.3929 V 51.51432 Z"
+     id="path991"
+     style="fill:#ffffff;stroke-width:2.87858" />
+</svg>

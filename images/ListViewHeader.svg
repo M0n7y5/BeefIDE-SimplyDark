@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #424242;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="ListViewHeader" class="cls-1" d="M560,160V100a20,20,0,0,1,20-20h40a20,20,0,0,1,20,20v60" transform="translate(-560 -80)"/>
+</svg>

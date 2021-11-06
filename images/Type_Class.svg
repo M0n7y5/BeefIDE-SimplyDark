@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="80"
+   height="80"
+   viewBox="0 0 80 80"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="Type_Class.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="7.7163028"
+     inkscape:cx="31.815755"
+     inkscape:cy="60.326819"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g935">
+    <inkscape:grid
+       type="xygrid"
+       id="grid823"
+       empcolor="#00ff05"
+       empopacity="0.36862745"
+       color="#b7b7ff"
+       opacity="0.21176471" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g
+     style="fill:none"
+     id="g935"
+     transform="matrix(4.3687504,0,0,4.3687504,5.6616222,5.6834659)">
+    <path
+       d="m 11.293476,8.5416951 h 0.686695 L 14.726952,5.7949143 V 5.1082191 L 13.353562,3.7348286 H 12.666866 L 10.835679,5.5660159 H 5.8599999 l 2,-2.0600857 V 2.819235 L 5.5710159,0.98804777 H 4.8843207 L 0.99304776,5.1082191 V 5.7949143 L 3.0531334,7.8549999 H 3.7398286 L 4.8843207,6.4816095 v 5.9513585 l 0.4577968,0.457797 h 4.5779681 v 0.457797 l 1.3733904,1.37339 h 0.686695 l 2.746781,-2.746781 v -0.686695 l -1.37339,-1.3733904 h -0.686696 l -1.831187,1.8311874 -4.8068663,0 V 6.7105079 l 3.8912733,0 v 0.4577968 z"
+       fill="#ee9d28"
+       id="path926"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>

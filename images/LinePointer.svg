@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffea00;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="LinePointer" class="cls-1" d="M361.545,341L385,360.5,361.545,380V368.3H342V352.7h19.545V341Z" transform="translate(-323.5 -320.5)"/>
+</svg>

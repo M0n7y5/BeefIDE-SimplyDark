@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8a8a8a;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="TreeArrow" class="cls-1" d="M672.01,183.01V217l19.981-17Z" transform="translate(-642 -160)"/>
+</svg>
